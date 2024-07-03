@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Example Image](https://github.com/timothy-kodes/timothy-kodes/blob/main/tk.png)
 <!--
 **timothy-kodes/timothy-kodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
